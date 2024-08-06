@@ -50,7 +50,6 @@ ORDER BY
 LIMIT 10;
 ```
 
-# ching tu madre 
 
 
 
